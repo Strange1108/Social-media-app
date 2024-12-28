@@ -79,8 +79,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Strange1108/Social-media-app.git
-cd Social-media-app
+git clone https://github.com/Strange1108/social-media-app.git
+cd social-media-app
 ```
 
 **Installation**
